@@ -1,1 +1,1 @@
-# Tip-Calculator-javascript-
+# Tip-Calculator-jS
